@@ -1,17 +1,17 @@
 /* navbar card */
 p {
-  font-family: Roboto;
+  font-family: Poppins;
   font-weight: 400;
   font-size: 1.25em;
   line-height: 1.5em;
 }
 h1 {
   font-size: 3em;
-  font-family: Roboto;
+  font-family: Poppins;
   font-weight: 900;
 }
 h3 {
-  font-family: Roboto;
+  font-family: Poppins;
   font-weight: 900;
   font-size: 2em;
 }
@@ -31,7 +31,7 @@ h3 {
 .container {
   line-height: 2rem;
   font-size: 1rem;
-  font-family: Montserrat;
+  font-family: Poppins;
   font-weight: 400;
 }
 header {
@@ -104,7 +104,7 @@ a {
   justify-content: space-between;
 }
 .ulmenu {
-  font-family: Roboto;
+  font-family: Poppins;
   font-weight: 400;
   font-size: 1.25em;
   line-height: 1.5em;
